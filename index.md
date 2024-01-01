@@ -20,3 +20,11 @@ function multiply(a, b) {
 const result = multiply(4, 5);
 console.log(result);
 ```
+
+### My Task List
+
+- [x] Header added to index.md
+- [x] Image added to index.md
+- [x] code added to index.md
+- [ ] Task list added to index.md
+
